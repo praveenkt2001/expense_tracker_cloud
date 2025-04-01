@@ -42,7 +42,3 @@ cd backend
 cd frontend
 npm install
 npm start
-
-🧠 Author
-Praveen Kumar Thabjul
-GitHub • LinkedIn
